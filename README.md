@@ -17,14 +17,14 @@ This project implements a comprehensive simulation of packet routing in wireless
 ## Project Structure
 
 ```
-.
+
 ├── main.py                    # Main execution script
 ├── geometric_graph.py         # Random geometric graph generation
 ├── check_connectivity.py      # Network connectivity verification
-├── pick_sink.py              # Sink node selection algorithm
-├── simulate_packets.py       # Packet routing simulation engine
-├── plot_results.py           # Result visualization
-└── README.md                 # This file
+├── pick_sink.py               # Sink node selection algorithm
+├── simulate_packets.py        # Packet routing simulation engine
+├── plot_results.py            # Result visualization
+└── README.md                  # This file
 ```
 
 ## Installation
