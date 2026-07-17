@@ -1,4 +1,12 @@
+<div align="center">
+  
+ <img width="634" height="284" alt="image" src="https://github.com/user-attachments/assets/3494e4a9-ef68-42a5-aec5-e03134a85442" />
+
+
 # Packet Routing Simulation
+
+  
+</div>
 
 This project implements a comprehensive simulation of packet routing in wireless sensor networks modeled as random geometric graphs. The simulation explores how network connectivity (radius `rc`) and packet generation probability (lambda `λ`) affect packet forwarding patterns and network performance.
 
